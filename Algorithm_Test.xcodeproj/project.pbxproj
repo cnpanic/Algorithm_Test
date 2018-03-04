@@ -11,6 +11,7 @@
 		B2345A92204A6CE600E157D4 /* XOR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2345A90204A6CE600E157D4 /* XOR.cpp */; };
 		B2345A95204A717A00E157D4 /* contest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2345A93204A717A00E157D4 /* contest.cpp */; };
 		B2345A98204B91DC00E157D4 /* sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2345A96204B91DC00E157D4 /* sum.cpp */; };
+		B2345A9B204BE67A00E157D4 /* Dart.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2345A99204BE67900E157D4 /* Dart.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		B2345A90204A6CE600E157D4 /* XOR.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = XOR.cpp; sourceTree = "<group>"; };
 		B2345A93204A717A00E157D4 /* contest.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = contest.cpp; sourceTree = "<group>"; };
 		B2345A96204B91DC00E157D4 /* sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sum.cpp; sourceTree = "<group>"; };
+		B2345A99204BE67900E157D4 /* Dart.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Dart.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B2345A89204A6CD500E157D4 /* main.cpp */,
 				B2345A90204A6CE600E157D4 /* XOR.cpp */,
 				B2345A93204A717A00E157D4 /* contest.cpp */,
+				B2345A99204BE67900E157D4 /* Dart.cpp */,
 				B2345A96204B91DC00E157D4 /* sum.cpp */,
 			);
 			path = Algorithm_Test;
@@ -132,6 +135,7 @@
 				B2345A98204B91DC00E157D4 /* sum.cpp in Sources */,
 				B2345A8A204A6CD500E157D4 /* main.cpp in Sources */,
 				B2345A92204A6CE600E157D4 /* XOR.cpp in Sources */,
+				B2345A9B204BE67A00E157D4 /* Dart.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
