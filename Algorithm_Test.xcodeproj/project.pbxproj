@@ -18,6 +18,8 @@
 		B24ACD2B204FB64A00B1B87B /* b_tiling.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B24ACD29204FB64A00B1B87B /* b_tiling.cpp */; };
 		B25A2960206A2AD100DF54E0 /* input_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A295F206A2AD100DF54E0 /* input_1.cpp */; };
 		B25A2963206A2F4F00DF54E0 /* operation_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A2961206A2F4F00DF54E0 /* operation_1.cpp */; };
+		B25A2965206A42EE00DF54E0 /* count_10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A2964206A42EE00DF54E0 /* count_10.cpp */; };
+		B25A2967206A497E00DF54E0 /* include_alphabet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A2966206A497E00DF54E0 /* include_alphabet.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +47,8 @@
 		B24ACD29204FB64A00B1B87B /* b_tiling.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = b_tiling.cpp; sourceTree = "<group>"; };
 		B25A295F206A2AD100DF54E0 /* input_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = input_1.cpp; sourceTree = "<group>"; };
 		B25A2961206A2F4F00DF54E0 /* operation_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = operation_1.cpp; sourceTree = "<group>"; };
+		B25A2964206A42EE00DF54E0 /* count_10.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = count_10.cpp; sourceTree = "<group>"; };
+		B25A2966206A497E00DF54E0 /* include_alphabet.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = include_alphabet.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,8 @@
 				B24ACD29204FB64A00B1B87B /* b_tiling.cpp */,
 				B25A295F206A2AD100DF54E0 /* input_1.cpp */,
 				B25A2961206A2F4F00DF54E0 /* operation_1.cpp */,
+				B25A2964206A42EE00DF54E0 /* count_10.cpp */,
+				B25A2966206A497E00DF54E0 /* include_alphabet.cpp */,
 			);
 			path = Algorithm_Test;
 			sourceTree = "<group>";
@@ -151,6 +157,8 @@
 			files = (
 				B25A2960206A2AD100DF54E0 /* input_1.cpp in Sources */,
 				B24ACD25204EAC2B00B1B87B /* maze.cpp in Sources */,
+				B25A2965206A42EE00DF54E0 /* count_10.cpp in Sources */,
+				B25A2967206A497E00DF54E0 /* include_alphabet.cpp in Sources */,
 				B24ACD28204FA94500B1B87B /* goodnumber.cpp in Sources */,
 				B2345A95204A717A00E157D4 /* contest.cpp in Sources */,
 				B2345A98204B91DC00E157D4 /* sum.cpp in Sources */,
