@@ -13,6 +13,11 @@
 		B2345A98204B91DC00E157D4 /* sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2345A96204B91DC00E157D4 /* sum.cpp */; };
 		B2345A9B204BE67A00E157D4 /* Dart.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2345A99204BE67900E157D4 /* Dart.cpp */; };
 		B24ACD22204BFC9A00B1B87B /* combination.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B24ACD20204BFC9A00B1B87B /* combination.cpp */; };
+		B24ACD25204EAC2B00B1B87B /* maze.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B24ACD23204EAC2B00B1B87B /* maze.cpp */; };
+		B24ACD28204FA94500B1B87B /* goodnumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B24ACD26204FA94500B1B87B /* goodnumber.cpp */; };
+		B24ACD2B204FB64A00B1B87B /* b_tiling.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B24ACD29204FB64A00B1B87B /* b_tiling.cpp */; };
+		B25A2960206A2AD100DF54E0 /* input_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A295F206A2AD100DF54E0 /* input_1.cpp */; };
+		B25A2963206A2F4F00DF54E0 /* operation_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A2961206A2F4F00DF54E0 /* operation_1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +40,11 @@
 		B2345A96204B91DC00E157D4 /* sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sum.cpp; sourceTree = "<group>"; };
 		B2345A99204BE67900E157D4 /* Dart.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Dart.cpp; sourceTree = "<group>"; };
 		B24ACD20204BFC9A00B1B87B /* combination.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = combination.cpp; sourceTree = "<group>"; };
+		B24ACD23204EAC2B00B1B87B /* maze.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = maze.cpp; sourceTree = "<group>"; };
+		B24ACD26204FA94500B1B87B /* goodnumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = goodnumber.cpp; sourceTree = "<group>"; };
+		B24ACD29204FB64A00B1B87B /* b_tiling.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = b_tiling.cpp; sourceTree = "<group>"; };
+		B25A295F206A2AD100DF54E0 /* input_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = input_1.cpp; sourceTree = "<group>"; };
+		B25A2961206A2F4F00DF54E0 /* operation_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = operation_1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +82,12 @@
 				B2345A93204A717A00E157D4 /* contest.cpp */,
 				B2345A99204BE67900E157D4 /* Dart.cpp */,
 				B24ACD20204BFC9A00B1B87B /* combination.cpp */,
+				B24ACD23204EAC2B00B1B87B /* maze.cpp */,
+				B24ACD26204FA94500B1B87B /* goodnumber.cpp */,
 				B2345A96204B91DC00E157D4 /* sum.cpp */,
+				B24ACD29204FB64A00B1B87B /* b_tiling.cpp */,
+				B25A295F206A2AD100DF54E0 /* input_1.cpp */,
+				B25A2961206A2F4F00DF54E0 /* operation_1.cpp */,
 			);
 			path = Algorithm_Test;
 			sourceTree = "<group>";
@@ -134,10 +149,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B25A2960206A2AD100DF54E0 /* input_1.cpp in Sources */,
+				B24ACD25204EAC2B00B1B87B /* maze.cpp in Sources */,
+				B24ACD28204FA94500B1B87B /* goodnumber.cpp in Sources */,
 				B2345A95204A717A00E157D4 /* contest.cpp in Sources */,
 				B2345A98204B91DC00E157D4 /* sum.cpp in Sources */,
 				B2345A8A204A6CD500E157D4 /* main.cpp in Sources */,
+				B24ACD2B204FB64A00B1B87B /* b_tiling.cpp in Sources */,
 				B24ACD22204BFC9A00B1B87B /* combination.cpp in Sources */,
+				B25A2963206A2F4F00DF54E0 /* operation_1.cpp in Sources */,
 				B2345A92204A6CE600E157D4 /* XOR.cpp in Sources */,
 				B2345A9B204BE67A00E157D4 /* Dart.cpp in Sources */,
 			);
