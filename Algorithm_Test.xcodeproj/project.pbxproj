@@ -83,7 +83,6 @@
 		B2345A7D204A6CD500E157D4 = {
 			isa = PBXGroup;
 			children = (
-				B25A297A207648D200DF54E0 /* ID_check.cpp */,
 				B2345A88204A6CD500E157D4 /* Algorithm_Test */,
 				B2345A87204A6CD500E157D4 /* Products */,
 			);
@@ -100,6 +99,7 @@
 		B2345A88204A6CD500E157D4 /* Algorithm_Test */ = {
 			isa = PBXGroup;
 			children = (
+				B25A297A207648D200DF54E0 /* ID_check.cpp */,
 				B25A2977207646B600DF54E0 /* Posterior expression.cpp */,
 				B25A297220762C6000DF54E0 /* reverse_add.cpp */,
 				B25A2974207638B800DF54E0 /* Chese_game.cpp */,
