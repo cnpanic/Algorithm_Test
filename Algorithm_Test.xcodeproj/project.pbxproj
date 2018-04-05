@@ -26,6 +26,9 @@
 		B25A296F2074DDF100DF54E0 /* secondry_search.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A296E2074DDF100DF54E0 /* secondry_search.cpp */; };
 		B25A29712074E01C00DF54E0 /* matrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A29702074E01C00DF54E0 /* matrix.cpp */; };
 		B25A297320762C6000DF54E0 /* reverse_add.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A297220762C6000DF54E0 /* reverse_add.cpp */; };
+		B25A2975207638B800DF54E0 /* Chese_game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A2974207638B800DF54E0 /* Chese_game.cpp */; };
+		B25A2978207646B600DF54E0 /* Posterior expression.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A2977207646B600DF54E0 /* Posterior expression.cpp */; };
+		B25A297B207648D200DF54E0 /* ID_check.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A297A207648D200DF54E0 /* ID_check.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -61,6 +64,9 @@
 		B25A296E2074DDF100DF54E0 /* secondry_search.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = secondry_search.cpp; sourceTree = "<group>"; };
 		B25A29702074E01C00DF54E0 /* matrix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = matrix.cpp; sourceTree = "<group>"; };
 		B25A297220762C6000DF54E0 /* reverse_add.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = reverse_add.cpp; sourceTree = "<group>"; };
+		B25A2974207638B800DF54E0 /* Chese_game.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Chese_game.cpp; sourceTree = "<group>"; };
+		B25A2977207646B600DF54E0 /* Posterior expression.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Posterior expression.cpp"; sourceTree = "<group>"; };
+		B25A297A207648D200DF54E0 /* ID_check.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ID_check.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +83,7 @@
 		B2345A7D204A6CD500E157D4 = {
 			isa = PBXGroup;
 			children = (
+				B25A297A207648D200DF54E0 /* ID_check.cpp */,
 				B2345A88204A6CD500E157D4 /* Algorithm_Test */,
 				B2345A87204A6CD500E157D4 /* Products */,
 			);
@@ -93,7 +100,9 @@
 		B2345A88204A6CD500E157D4 /* Algorithm_Test */ = {
 			isa = PBXGroup;
 			children = (
+				B25A2977207646B600DF54E0 /* Posterior expression.cpp */,
 				B25A297220762C6000DF54E0 /* reverse_add.cpp */,
+				B25A2974207638B800DF54E0 /* Chese_game.cpp */,
 				B2345A89204A6CD500E157D4 /* main.cpp */,
 				B2345A90204A6CE600E157D4 /* XOR.cpp */,
 				B2345A93204A717A00E157D4 /* contest.cpp */,
@@ -177,6 +186,7 @@
 				B24ACD25204EAC2B00B1B87B /* maze.cpp in Sources */,
 				B25A2965206A42EE00DF54E0 /* count_10.cpp in Sources */,
 				B25A296D207231E000DF54E0 /* qucik_sort.cpp in Sources */,
+				B25A2975207638B800DF54E0 /* Chese_game.cpp in Sources */,
 				B25A2967206A497E00DF54E0 /* include_alphabet.cpp in Sources */,
 				B24ACD28204FA94500B1B87B /* goodnumber.cpp in Sources */,
 				B2345A95204A717A00E157D4 /* contest.cpp in Sources */,
@@ -184,10 +194,12 @@
 				B25A2969206A50A600DF54E0 /* dial.cpp in Sources */,
 				B2345A8A204A6CD500E157D4 /* main.cpp in Sources */,
 				B24ACD2B204FB64A00B1B87B /* b_tiling.cpp in Sources */,
+				B25A2978207646B600DF54E0 /* Posterior expression.cpp in Sources */,
 				B25A296F2074DDF100DF54E0 /* secondry_search.cpp in Sources */,
 				B25A296B20722CA200DF54E0 /* choose_sort.cpp in Sources */,
 				B24ACD22204BFC9A00B1B87B /* combination.cpp in Sources */,
 				B25A29712074E01C00DF54E0 /* matrix.cpp in Sources */,
+				B25A297B207648D200DF54E0 /* ID_check.cpp in Sources */,
 				B25A2963206A2F4F00DF54E0 /* operation_1.cpp in Sources */,
 				B2345A92204A6CE600E157D4 /* XOR.cpp in Sources */,
 				B2345A9B204BE67A00E157D4 /* Dart.cpp in Sources */,
