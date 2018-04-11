@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B2106E79207B80B50012D79B /* st_block_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2106E78207B80B50012D79B /* st_block_1.cpp */; };
+		B2106E7B207CCF6E0012D79B /* st_cook_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2106E7A207CCF6E0012D79B /* st_cook_1.cpp */; };
+		B2106E7D207CDEB80012D79B /* recursive_practice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2106E7C207CDEB80012D79B /* recursive_practice.cpp */; };
+		B2106E7F207CE1C90012D79B /* st_example.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2106E7E207CE1C90012D79B /* st_example.cpp */; };
+		B2106E81207DFEBD0012D79B /* xyz_plus.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2106E80207DFEBD0012D79B /* xyz_plus.cpp */; };
+		B2106E83207E01D60012D79B /* fibo_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2106E82207E01D60012D79B /* fibo_1.cpp */; };
+		B2106E85207E03530012D79B /* merge_sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2106E84207E03530012D79B /* merge_sort.cpp */; };
+		B2106E87207E07F40012D79B /* water_bottle_recursive.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2106E86207E07F40012D79B /* water_bottle_recursive.cpp */; };
 		B2345A8A204A6CD500E157D4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2345A89204A6CD500E157D4 /* main.cpp */; };
 		B2345A92204A6CE600E157D4 /* XOR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2345A90204A6CE600E157D4 /* XOR.cpp */; };
 		B2345A95204A717A00E157D4 /* contest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2345A93204A717A00E157D4 /* contest.cpp */; };
@@ -29,6 +37,8 @@
 		B25A2975207638B800DF54E0 /* Chese_game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A2974207638B800DF54E0 /* Chese_game.cpp */; };
 		B25A2978207646B600DF54E0 /* Posterior expression.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A2977207646B600DF54E0 /* Posterior expression.cpp */; };
 		B25A297B207648D200DF54E0 /* ID_check.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A297A207648D200DF54E0 /* ID_check.cpp */; };
+		B25A297F207655E500DF54E0 /* Catch_Triangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A297E207655E500DF54E0 /* Catch_Triangle.cpp */; };
+		B25A29812076564200DF54E0 /* Add_Minus_Calculator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A29802076564200DF54E0 /* Add_Minus_Calculator.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -44,6 +54,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B2106E78207B80B50012D79B /* st_block_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = st_block_1.cpp; sourceTree = "<group>"; };
+		B2106E7A207CCF6E0012D79B /* st_cook_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = st_cook_1.cpp; sourceTree = "<group>"; };
+		B2106E7C207CDEB80012D79B /* recursive_practice.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = recursive_practice.cpp; sourceTree = "<group>"; };
+		B2106E7E207CE1C90012D79B /* st_example.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = st_example.cpp; sourceTree = "<group>"; };
+		B2106E80207DFEBD0012D79B /* xyz_plus.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = xyz_plus.cpp; sourceTree = "<group>"; };
+		B2106E82207E01D60012D79B /* fibo_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = fibo_1.cpp; sourceTree = "<group>"; };
+		B2106E84207E03530012D79B /* merge_sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = merge_sort.cpp; sourceTree = "<group>"; };
+		B2106E86207E07F40012D79B /* water_bottle_recursive.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = water_bottle_recursive.cpp; sourceTree = "<group>"; };
 		B2345A86204A6CD500E157D4 /* Algorithm_Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Test; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2345A89204A6CD500E157D4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B2345A90204A6CE600E157D4 /* XOR.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = XOR.cpp; sourceTree = "<group>"; };
@@ -67,6 +85,8 @@
 		B25A2974207638B800DF54E0 /* Chese_game.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Chese_game.cpp; sourceTree = "<group>"; };
 		B25A2977207646B600DF54E0 /* Posterior expression.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Posterior expression.cpp"; sourceTree = "<group>"; };
 		B25A297A207648D200DF54E0 /* ID_check.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ID_check.cpp; sourceTree = "<group>"; };
+		B25A297E207655E500DF54E0 /* Catch_Triangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Catch_Triangle.cpp; sourceTree = "<group>"; };
+		B25A29802076564200DF54E0 /* Add_Minus_Calculator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Add_Minus_Calculator.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +119,7 @@
 		B2345A88204A6CD500E157D4 /* Algorithm_Test */ = {
 			isa = PBXGroup;
 			children = (
+				B25A297E207655E500DF54E0 /* Catch_Triangle.cpp */,
 				B25A297A207648D200DF54E0 /* ID_check.cpp */,
 				B25A2977207646B600DF54E0 /* Posterior expression.cpp */,
 				B25A297220762C6000DF54E0 /* reverse_add.cpp */,
@@ -106,6 +127,15 @@
 				B2345A89204A6CD500E157D4 /* main.cpp */,
 				B2345A90204A6CE600E157D4 /* XOR.cpp */,
 				B2345A93204A717A00E157D4 /* contest.cpp */,
+				B25A29802076564200DF54E0 /* Add_Minus_Calculator.cpp */,
+				B2106E78207B80B50012D79B /* st_block_1.cpp */,
+				B2106E7A207CCF6E0012D79B /* st_cook_1.cpp */,
+				B2106E7E207CE1C90012D79B /* st_example.cpp */,
+				B2106E80207DFEBD0012D79B /* xyz_plus.cpp */,
+				B2106E82207E01D60012D79B /* fibo_1.cpp */,
+				B2106E84207E03530012D79B /* merge_sort.cpp */,
+				B2106E86207E07F40012D79B /* water_bottle_recursive.cpp */,
+				B2106E7C207CDEB80012D79B /* recursive_practice.cpp */,
 				B2345A99204BE67900E157D4 /* Dart.cpp */,
 				B24ACD20204BFC9A00B1B87B /* combination.cpp */,
 				B24ACD23204EAC2B00B1B87B /* maze.cpp */,
@@ -183,18 +213,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				B25A2960206A2AD100DF54E0 /* input_1.cpp in Sources */,
+				B2106E7F207CE1C90012D79B /* st_example.cpp in Sources */,
 				B24ACD25204EAC2B00B1B87B /* maze.cpp in Sources */,
+				B2106E79207B80B50012D79B /* st_block_1.cpp in Sources */,
 				B25A2965206A42EE00DF54E0 /* count_10.cpp in Sources */,
 				B25A296D207231E000DF54E0 /* qucik_sort.cpp in Sources */,
 				B25A2975207638B800DF54E0 /* Chese_game.cpp in Sources */,
+				B2106E7B207CCF6E0012D79B /* st_cook_1.cpp in Sources */,
 				B25A2967206A497E00DF54E0 /* include_alphabet.cpp in Sources */,
 				B24ACD28204FA94500B1B87B /* goodnumber.cpp in Sources */,
 				B2345A95204A717A00E157D4 /* contest.cpp in Sources */,
 				B2345A98204B91DC00E157D4 /* sum.cpp in Sources */,
+				B25A297F207655E500DF54E0 /* Catch_Triangle.cpp in Sources */,
+				B2106E83207E01D60012D79B /* fibo_1.cpp in Sources */,
+				B2106E87207E07F40012D79B /* water_bottle_recursive.cpp in Sources */,
 				B25A2969206A50A600DF54E0 /* dial.cpp in Sources */,
 				B2345A8A204A6CD500E157D4 /* main.cpp in Sources */,
 				B24ACD2B204FB64A00B1B87B /* b_tiling.cpp in Sources */,
 				B25A2978207646B600DF54E0 /* Posterior expression.cpp in Sources */,
+				B25A29812076564200DF54E0 /* Add_Minus_Calculator.cpp in Sources */,
 				B25A296F2074DDF100DF54E0 /* secondry_search.cpp in Sources */,
 				B25A296B20722CA200DF54E0 /* choose_sort.cpp in Sources */,
 				B24ACD22204BFC9A00B1B87B /* combination.cpp in Sources */,
@@ -203,7 +240,10 @@
 				B25A2963206A2F4F00DF54E0 /* operation_1.cpp in Sources */,
 				B2345A92204A6CE600E157D4 /* XOR.cpp in Sources */,
 				B2345A9B204BE67A00E157D4 /* Dart.cpp in Sources */,
+				B2106E7D207CDEB80012D79B /* recursive_practice.cpp in Sources */,
+				B2106E85207E03530012D79B /* merge_sort.cpp in Sources */,
 				B25A297320762C6000DF54E0 /* reverse_add.cpp in Sources */,
+				B2106E81207DFEBD0012D79B /* xyz_plus.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
