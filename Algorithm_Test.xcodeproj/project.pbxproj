@@ -39,6 +39,8 @@
 		B25A297B207648D200DF54E0 /* ID_check.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A297A207648D200DF54E0 /* ID_check.cpp */; };
 		B25A297F207655E500DF54E0 /* Catch_Triangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A297E207655E500DF54E0 /* Catch_Triangle.cpp */; };
 		B25A29812076564200DF54E0 /* Add_Minus_Calculator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25A29802076564200DF54E0 /* Add_Minus_Calculator.cpp */; };
+		B29FC0D7207E207E003E9EE7 /* four_queen.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B29FC0D6207E207E003E9EE7 /* four_queen.cpp */; };
+		B29FC0D9207E8883003E9EE7 /* D2_million.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B29FC0D8207E8883003E9EE7 /* D2_million.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -87,6 +89,8 @@
 		B25A297A207648D200DF54E0 /* ID_check.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ID_check.cpp; sourceTree = "<group>"; };
 		B25A297E207655E500DF54E0 /* Catch_Triangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Catch_Triangle.cpp; sourceTree = "<group>"; };
 		B25A29802076564200DF54E0 /* Add_Minus_Calculator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Add_Minus_Calculator.cpp; sourceTree = "<group>"; };
+		B29FC0D6207E207E003E9EE7 /* four_queen.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = four_queen.cpp; sourceTree = "<group>"; };
+		B29FC0D8207E8883003E9EE7 /* D2_million.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = D2_million.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +139,8 @@
 				B2106E82207E01D60012D79B /* fibo_1.cpp */,
 				B2106E84207E03530012D79B /* merge_sort.cpp */,
 				B2106E86207E07F40012D79B /* water_bottle_recursive.cpp */,
+				B29FC0D6207E207E003E9EE7 /* four_queen.cpp */,
+				B29FC0D8207E8883003E9EE7 /* D2_million.cpp */,
 				B2106E7C207CDEB80012D79B /* recursive_practice.cpp */,
 				B2345A99204BE67900E157D4 /* Dart.cpp */,
 				B24ACD20204BFC9A00B1B87B /* combination.cpp */,
@@ -229,6 +235,7 @@
 				B2106E87207E07F40012D79B /* water_bottle_recursive.cpp in Sources */,
 				B25A2969206A50A600DF54E0 /* dial.cpp in Sources */,
 				B2345A8A204A6CD500E157D4 /* main.cpp in Sources */,
+				B29FC0D7207E207E003E9EE7 /* four_queen.cpp in Sources */,
 				B24ACD2B204FB64A00B1B87B /* b_tiling.cpp in Sources */,
 				B25A2978207646B600DF54E0 /* Posterior expression.cpp in Sources */,
 				B25A29812076564200DF54E0 /* Add_Minus_Calculator.cpp in Sources */,
@@ -237,6 +244,7 @@
 				B24ACD22204BFC9A00B1B87B /* combination.cpp in Sources */,
 				B25A29712074E01C00DF54E0 /* matrix.cpp in Sources */,
 				B25A297B207648D200DF54E0 /* ID_check.cpp in Sources */,
+				B29FC0D9207E8883003E9EE7 /* D2_million.cpp in Sources */,
 				B25A2963206A2F4F00DF54E0 /* operation_1.cpp in Sources */,
 				B2345A92204A6CE600E157D4 /* XOR.cpp in Sources */,
 				B2345A9B204BE67A00E157D4 /* Dart.cpp in Sources */,
